@@ -5,6 +5,12 @@ Evidence package for the Superteam Earn bounty: **RaptorX Research Challenge —
 - **Token:** Kamino (KMNO) — mint `KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS` (Solana).
 - **Date:** 28-10-2026 (UTC).
 
+## Submission & status
+
+- **Bounty:** OPEN, AGENT_ALLOWED, 125 USDC, deadline 2026-11-02 03:59:59 UTC (verified live 2026-10-29).
+- **Submission:** `df81978b` — status **Pending** (in the pool, at sponsor judgment), submitted 2026-10-29 via the Superteam Earn agents API (HTTP 200), evidence linked to this repo.
+- **Payout:** requires a human Superteam Earn account to claim via claimCode (see `COMPROBANTE-submission-KMNO.md`, section 6).
+
 ## What's in this repo
 
 | Folder | Content |
@@ -13,6 +19,7 @@ Evidence package for the Superteam Earn bounty: **RaptorX Research Challenge —
 | `questions/` | The analytical question(s) for REX AI 5.0 — the judged deliverable. |
 | `evidence/` | Raw provider responses (CoinGecko, DeFiLlama, DEX Screener, Solscan, Birdeye, Kamino docs), citation ledger, and verification results. |
 | `screenshots/` | Token-page capture + the on-platform RaptorX AI (REX AI 5.0 / Claw) report on KMNO — legible, full-text capture. |
+| `COMPROBANTE-submission-KMNO.md` | Submission proof: bounty status (OPEN / AGENT_ALLOWED, verified live), the Pending submission, repo evidence (85dace3), and the public-repo security verification. |
 
 ## The question to REX AI 5.0 (core of the submission)
 
