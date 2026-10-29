@@ -1,0 +1,1060 @@
+The Intelligent Terminal for Prediction Markets & Crypto.
+RexScreener
+Claw AI 5.0
+Rex Predictions
+
+Claw Version 5
+
+New chat
+Library
+CHATS
+Genera el Alpha report completo del token KMNO en
+Genera el Alpha report del token KMNO en Solana (m
+Share
+Genera el Alpha report completo del token KMNO en Solana (mint KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS). Incluye: precio actual, niveles de soporte/resistencia, volumen, liquidez, y un plan de trade corto.
+Kamino (KMNO) — Technical Research Report
+
+Blockchain: Solana | Ticker: KMNO | Contract Address: KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS
+
+1. What It Is
+
+Kamino (KMNO) is a Solana-native decentralized finance (DeFi) protocol that unifies Lending, Liquidity, and Leverage into a single, secure product suite. The protocol was originally created to offer users the easiest possible way of providing liquidity and earning yield on-chain, pioneering one-click, auto-compounding concentrated liquidity strategies that quickly became the most popular LP products on Solana.
+
+The project has since evolved into a first-of-its-kind DeFi hub, categorized by CoinGecko under Decentralized Finance (DeFi), Lending/Borrowing Protocols, Solana Ecosystem, and Binance Alpha Spotlight. The platform has expanded into innovative areas including stock lending markets and RWA (Real World Asset) vaults, as evidenced by recent community events and integrations.
+
+The token's contract address is KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS, with the primary trading pair KMNO/USDC operating on Orca DEX. Kamino maintains a substantial Total Value Locked (TVL) of approximately $1.4 billion USD, demonstrating significant protocol adoption and capital efficiency. The project is officially associated with the Kamino Finance Twitter account (@KaminoFinance) and maintains an active presence across Discord and Telegram communities.
+
+2. Holder Analytics
+
+Note: This section is only applicable to BNB Smart Chain tokens. Kamino operates on the Solana blockchain, therefore detailed holder analytics (including total holder count, top holder concentration percentages, and whale distribution data) are not applicable for this report.
+
+3. Safety Analytics
+
+Note: This section is only applicable to BNB Smart Chain tokens. Kamino operates on the Solana blockchain, therefore security analytics (including honeypot detection, contract risk scores, and tax analysis) are not applicable for this report.
+
+4. Community Chatter
+
+The community sentiment surrounding $KMNO is actively bullish with strong conviction, reflected across multiple Twitter/X conversations. Key themes dominating the discussion include the protocol's expansion into innovative financial products, its potential for long-term value accumulation, and growing institutional interest.
+
+Overall Sentiment Analysis
+
+The prevailing sentiment is bullish, with several prominent crypto commentators making notably optimistic long-term claims about the token. A particularly striking sentiment comes from @AriaMontgo4Real, who stated that "$KMNO & $Pendle can retire people in a medium term," while @DeFiConnoisseur echoed similar conviction, suggesting that a "Solid bag of $KMNO and $JTO could retire people." These statements reflect a strong belief among community members in the token's appreciation potential over a medium-term investment horizon.
+
+Key Community Discussions and Trending Topics
+
+Several notable developments have captured community attention recently:
+
+Stock Lending Leadership: @Joshuwa highlighted that "$KMNO leads stock lending TVL," noting that "Solana venues add stock exposure" and that "Isolated markets contain bad debt risk across unrelated assets per account. This structure gives lenders a cleaner downside when collateral moves." This positions Kamino as an innovator in the emerging tokenized stock lending space.
+
+Binance Wallet Integration: A new event was logged on September 3, 2026, with an impact rating of 5.5/10, signaling Kamino's expanding integration with major exchange infrastructure.
+
+RWA Vault Integration: Another event on September 3, 2026, highlighted Kamino's push into real-world asset vaults (impact rating 3.5/10).
+
+xStocks Collateral on XPlace: An event dated September 3, 2026 (impact 4/10) indicates the protocol's continued expansion into stock-backed collateral products.
+
+Binance Wallet Rewards: A month-long campaign running from September 3 to October 3, 2026, providing additional incentive for community participation.
+
+Institutional Curiosity: @DeFiConnoisseur publicly asked Multicoin Capital's @tushar_jain for a "Kamino ($KMNO) Asset Report," suggesting growing interest from major crypto venture capital firms in publishing research on the project.
+
+Engagement Metrics and Social Activity
+
+The community is actively discussing $KMNO with multiple users noting "fresh updates are being shared now" and "the conversation is active again." Several accounts with bot-like patterns (e.g., @libriria, @wanran_15, @EkcSkay, @alfredo23316671, @olmedo_daniel, @Mario4890, @soufiantng, @RTijerina87142) are generating ongoing chatter, suggesting sustained social media activity and awareness. @TheBlackBull0x posed an engaging question to the community: "If $KMNO had a first impression, what would it be?" — indicating active community building and discussion.
+
+Caution Flags or Positive Momentum Indicators
+
+Positive momentum indicators include the steady stream of new integrations (Binance Wallet, RWA Vaults, xStocks), the protocol's leadership position in stock lending TVL, and strong community conviction from established voices in the DeFi space. The market's 30-day price appreciation of +32.88% aligns with this bullish narrative.
+
+No significant caution flags emerged from the analyzed community chatter. The conversation is notably focused on legitimate protocol developments, institutional interest, and long-term value propositions rather than speculative memecoin-style promotion.
+
+5. Top Tweets
+
+@Joshuwa:
+
+$KMNO leads stock lending TVL. Solana venues add stock exposure. Isolated markets contain bad debt risk across unrelated assets per account. This structure gives lenders a cleaner downside when collateral moves.
+
+@AriaMontgo4Real:
+
+$KMNO & $Pendle can retire people in a medium term
+
+@DeFiConnoisseur:
+
+Solid bag of $KMNO and $JTO could retire people
+
+@cmcal_bot:
+
+New event added — Binance Wallet Integration — Kamino · $KMNO — 03 Sep 2026 — Impact 5.5/10
+
+@DeFiConnoisseur:
+
+When Multicoin Capital Kamino ($KMNO) Asset Report? @tushar_jain
+
+6. Coin-O-Metry
+Metric	Value
+Token Price	$0.02450 USD
+Market Cap	$131,247,313 (DexScreener) / $133,514,650 (CoinGecko)
+All-Time High Price	$0.247842 USD (December 15, 2024)
+All-Time High Market Cap	Data not available
+24-Hour Price Change	+1.43%
+24-Hour Volume	$1,234,848.70 (DexScreener, KMNO/USDC pair) / $5,086,922 (CoinGecko, all pairs)
+Total Holders	Data not available
+Circulating Supply	5,449,315,399.75 KMNO
+Total Supply	9,999,957,002.41 KMNO
+Max Supply	10,000,000,000 KMNO
+Market Cap / FDV Ratio	0.54
+Launch Date / Pair Creation	October 10, 2024 (pair created at timestamp 1728555415000)
+Token Age	~2 years
+Contract Address	KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS
+Launchpad	Data not available
+TVL	$1,403,004,211 USD
+Mcap-to-TVL Ratio	0.10
+FDV-to-TVL Ratio	0.17
+7. Technical Analysis
+Price & Market Overview
+
+Kamino is currently trading at $0.02450 USD, representing a significant -90.11% decline from its all-time high of $0.247842, which was reached on December 15, 2024. The token has shown resilience from its all-time low of $0.013427, currently trading +82.48% above that level (ATL occurred in June 2026 per CoinGecko data).
+
+The market capitalization stands at approximately $133.5 million, placing Kamino at rank #223 on CoinGecko. The fully diluted valuation (FDV) is approximately $245 million, implying that roughly 54% of the total token supply is currently circulating. The protocol maintains an impressive TVL of $1.4 billion, which is more than 10x the current market cap — a mcap-to-TVL ratio of just 0.10, suggesting the token may be undervalued relative to the capital flowing through its protocol.
+
+Liquidity on the primary KMNO/USDC pair on Orca is $1,450,285 USD, which is relatively healthy for a token of this market cap. The pair was created on October 10, 2024.
+
+Trading Indicators
+
+Volume Analysis: The 24-hour trading volume on the tracked Orca pair is $1,234,848, while aggregate volume across all exchanges (including Binance, Bybit, OKX, Coinbase, and others) reaches approximately $5.09 million. This represents a reasonable volume-to-market-cap ratio of roughly 3.8%, indicating moderate trading activity.
+
+Buy/Sell Pressure: Over the past 24 hours, transaction data shows 9,190 buys versus 8,812 sells, reflecting a slight buy-side dominance. The 6-hour window shows a similar pattern with 2,159 buys versus 2,106 sells. This consistent, modest buy pressure supports the positive 24-hour price change of +1.35% on DexScreener.
+
+Trend Patterns: The token exhibits a mixed multi-timeframe picture:
+
+1-hour: +0.28% (mild positive momentum)
+6-hour: -0.19% (slight pullback)
+24-hour: +1.35% (positive daily performance)
+7-day: -9.82% (short-term correction)
+14-day: +10.39% (recovery trend)
+30-day: +32.88% (strong medium-term momentum)
+60-day: +28.18% (continued positive trend)
+200-day: -29.91% (long-term decline from ATH)
+1-year: -55.09% (significant yearly decline)
+
+The 30-day and 60-day positive momentum suggests the token is in a recovery phase, having established a meaningful uptrend over the past two months despite the longer-term drawdown from its December 2024 peak.
+
+On-chain Metrics
+
+Supply Distribution: The total supply is 9,999,957,002 KMNO against a max supply of 10 billion, with 5,449,315,400 tokens currently in circulation. The circulating-to-total supply ratio of approximately 54.5% suggests that vesting unlocks are still ongoing.
+
+Holder Behavior Patterns: Data not available for detailed holder analysis on Solana.
+
+Transaction Patterns: Recent activity shows consistent daily transaction volumes in the range of 18,000 transactions per 24 hours on the primary DEX pair, indicating active trading and healthy user engagement.
+
+Exchange Listings & Availability
+
+Kamino enjoys extensive exchange availability, being listed on numerous major centralized and decentralized platforms:
+
+Major Centralized Exchanges:
+
+Binance (KMNO/USDT and KMNO/USDC pairs)
+Coinbase Exchange (KMNO/USD)
+Kraken (KMNO/USD and KMNO/EUR)
+Bybit (KMNO/USDT)
+OKX (KMNO/USDT, KMNO/USDC, KMNO/USD, KMNO/EUR)
+KuCoin (KMNO/USDT)
+Gate.io (KMNO/USDT)
+Bitget (KMNO/USDT)
+MEXC (KMNO/USDT and KMNO/USDC)
+Upbit (KMNO/KRW)
+Bithumb (KMNO/KRW)
+WhiteBIT, Bitvavo, Gemini, Crypto.com, and many others
+
+Decentralized Exchanges:
+
+Orca (primary KMNO/USDC pair)
+Meteora (KMNO/SOL, KMNO/USDC, KMNO/JitoSOL, KMNO/JupSOL)
+Raydium (KMNO/SOL CLMM)
+
+The bid-ask spread on centralized exchanges is notably tight at approximately 0.04%, while DEX spreads are wider at 0.60-0.78%, which is typical for on-chain trading venues.
+
+Recent News & Updates
+
+Based on the most recent community chatter and event data (September 2026), several key developments are notable:
+
+Binance Wallet Integration (September 3, 2026): Kamino integrated with Binance Wallet infrastructure, rated at an impact level of 5.5/10 — the highest-rated recent event.
+
+Binance Wallet Rewards Program (September 3 - October 3, 2026): A month-long rewards campaign launched on Binance Wallet.
+
+xStocks Collateral on XPlace (September 3, 2026): Expansion of stock-backed collateral capabilities on the protocol's XPlace product.
+
+RWA Vault Integration (September 3, 2026): Further development of real-world asset vault products.
+
+hyUSD-USDC Incentives Doubled (September 1, 2026): Increased liquidity incentives for the hyUSD-USDC market.
+
+Grok Earn Access (August 31, 2026): Integration with Grok earn products.
+
+Stock Lending Leadership: Community reports indicate Kamino leads stock lending TVL among Solana venues, with isolated markets providing cleaner downside protection for lenders.
+
+These developments paint a picture of a protocol actively expanding its product suite across lending, liquidity, and leverage while pursuing integrations with major ecosystem players.
+
+Risk Assessment
+
+Volatility Analysis: Kamino exhibits typical cryptocurrency volatility characteristics. The token has experienced a -90% drawdown from its all-time high, which highlights the substantial downside risk inherent in the asset. However, the recent 30-day performance of +32.88% demonstrates that the token can also deliver significant upside moves.
+
+Concentration Risk: With a market cap of $133 million and FDV of $245 million, a substantial portion of tokens remain locked or unvested. Future unlocks could create selling pressure, though the protocol's strong TVL ($1.4 billion) and revenue generation may offset this.
+
+Protocol Risk: As a DeFi protocol handling lending, liquidity, and leverage, Kamino is exposed to smart contract risk, oracle failures, and potential liquidation cascades. The protocol's use of isolated markets for stock lending (as noted in community discussions) represents a thoughtful design choice to contain bad debt risk.
+
+Competition Risk: Kamino operates in the highly competitive Solana DeFi landscape, competing with other lending protocols and DEX aggregators. However, its unique position as the leading stock lending venue on Solana and its first-mover advantage in unified lending/liquidity/leverage products provide some competitive moat.
+
+Macro Risk: The token's -55% performance over the past year and -90% drawdown from ATH suggest sensitivity to broader crypto market conditions and the post-2024 bull market correction.
+
+Liquidity Risk: While the $1.45 million liquidity pool on Orca is adequate for current trading volumes, it may be insufficient for large institutional-sized trades without significant slippage. The extensive CEX listings partially mitigate this concern.
+
+Positive Factors: The mcap-to-TVL ratio of 0.10 is exceptionally low, suggesting the protocol generates substantial economic activity relative to its token valuation. The continued product innovation (stock lending, RWA vaults) and major exchange integrations (Binance Wallet) provide fundamental tailwinds that could support future price appreciation.
+
+Report compiled from DexScreener, CoinGecko, and Twitter/X data. All figures are as of the latest available data timestamps. This report is for informational purposes only and does not constitute financial advice.
+
+KMNO (Kamino)
+Technical Report
+Updated on 10/29/2026 at 12:11 AM
+Kamino (KMNO) — Technical Research Report
+📄
+Blockchain: Solana | Ticker: KMNO | Contract Address: KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS
+What It Is
+📘
+Kamino (KMNO) is a Solana-native decentralized finance (DeFi) protocol that unifies Lending, Liquidity, and Leverage into a single, secure product suite. The protocol was originally created to offer users the easiest possible way of providing liquidity and earning yield on-chain, pioneering one-click, auto-compounding concentrated liquidity strategies that quickly became the most popular LP products on Solana.
+The project has since evolved into a first-of-its-kind DeFi hub, categorized by CoinGecko under Decentralized Finance (DeFi), Lending/Borrowing Protocols, Solana Ecosystem, and Binance Alpha Spotlight. The platform has expanded into innovative areas including stock lending markets and RWA (Real World Asset) vaults, as evidenced by recent community events and integrations.
+The token's contract address is KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS, with the primary trading pair KMNO/USDC operating on Orca DEX. Kamino maintains a substantial Total Value Locked (TVL) of approximately $1.4 billion USD, demonstrating significant protocol adoption and capital efficiency. The project is officially associated with the Kamino Finance Twitter account (@KaminoFinance) and maintains an active presence across Discord and Telegram communities.
+Community Chatter
+🧠
+
+The community sentiment surrounding $KMNO is actively bullish with strong conviction, reflected across multiple Twitter/X conversations. Key themes dominating the discussion include the protocol's expansion into innovative financial products, its potential for long-term value accumulation, and growing institutional interest.
+
+Overall Sentiment Analysis
+
+The prevailing sentiment is bullish, with several prominent crypto commentators making notably optimistic long-term claims about the token. A particularly striking sentiment comes from @AriaMontgo4Real, who stated that "$KMNO & $Pendle can retire people in a medium term," while @DeFiConnoisseur echoed similar conviction, suggesting that a "Solid bag of $KMNO and $JTO could retire people." These statements reflect a strong belief among community members in the token's appreciation potential over a medium-term investment horizon.
+
+Key Community Discussions and Trending Topics
+
+Several notable developments have captured community attention recently:
+
+Stock Lending Leadership: @Joshuwa highlighted that "$KMNO leads stock lending TVL," noting that "Solana venues add stock exposure" and that "Isolated markets contain bad debt risk across unrelated assets per account. This structure gives lenders a cleaner downside when collateral moves." This positions Kamino as an innovator in the emerging tokenized stock lending space.
+Binance Wallet Integration: A new event was logged on September 3, 2026, with an impact rating of 5.5/10, signaling Kamino's expanding integration with major exchange infrastructure.
+RWA Vault Integration: Another event on September 3, 2026, highlighted Kamino's push into real-world asset vaults (impact rating 3.5/10).
+xStocks Collateral on XPlace: An event dated September 3, 2026 (impact 4/10) indicates the protocol's continued expansion into stock-backed collateral products.
+Binance Wallet Rewards: A month-long campaign running from September 3 to October 3, 2026, providing additional incentive for community participation.
+Institutional Curiosity: @DeFiConnoisseur publicly asked Multicoin Capital's @tushar_jain for a "Kamino ($KMNO) Asset Report," suggesting growing interest from major crypto venture capital firms in publishing research on the project.
+Engagement Metrics and Social Activity
+
+The community is actively discussing $KMNO with multiple users noting "fresh updates are being shared now" and "the conversation is active again." Several accounts with bot-like patterns (e.g., @libriria, @wanran_15, @EkcSkay, @alfredo23316671, @olmedo_daniel, @Mario4890, @soufiantng, @RTijerina87142) are generating ongoing chatter, suggesting sustained social media activity and awareness. @TheBlackBull0x posed an engaging question to the community: "If $KMNO had a first impression, what would it be?" — indicating active community building and discussion.
+
+Caution Flags or Positive Momentum Indicators
+Positive momentum indicators include the steady stream of new integrations (Binance Wallet, RWA Vaults, xStocks), the protocol's leadership position in stock lending TVL, and strong community conviction from established voices in the DeFi space. The market's 30-day price appreciation of +32.88% aligns with this bullish narrative.
+No significant caution flags emerged from the analyzed community chatter. The conversation is notably focused on legitimate protocol developments, institutional interest, and long-term value propositions rather than speculative memecoin-style promotion.
+Top Tweets
+Joshuwa Roomsburg
+✓
+@Joshuwa
+· 54d
+271.5K followers
+View →
+
+$KMNO leads stock lending TVL.
+
+Solana venues add stock exposure.
+
+Isolated markets contain bad debt risk
+across unrelated assets per account.
+
+This structure gives lenders a cleaner
+downside when collateral moves.
+
+💬 0
+🔄 2
+❤️ 2
+👁️ 431
+Aria Montgomery
+✓
+@AriaMontgo4Real
+· 55d
+119 followers
+View →
+
+$KMNO &amp; $Pendle can retire people in a medium term
+
+💬 0
+🔄 0
+❤️ 2
+👁️ 103
+CoinMarketCal Bot
+@cmcal_bot
+· 55d
+34.1K followers
+View →
+
+New event added
+
+xStocks Collateral on XPlace
+
+Kamino · $KMNO
+03 Sep 2026
+Impact 4/10
+
+https://t.co/yggJDbvAkD https://t.co/4IsJUV5KtF
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 706
+CoinMarketCal Bot
+@cmcal_bot
+· 55d
+34.1K followers
+View →
+
+New event added
+
+Binance Wallet Integration
+
+Kamino · $KMNO
+03 Sep 2026
+Impact 5.5/10
+
+https://t.co/mrgwVwjpuG https://t.co/deZHXdPy5O
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 500
+CoinMarketCal Bot
+@cmcal_bot
+· 55d
+34.1K followers
+View →
+
+New event added
+
+RWA Vault Integration
+
+Kamino · $KMNO
+03 Sep 2026
+Impact 3.5/10
+
+https://t.co/O85PrxLw24 https://t.co/uba2Zmt8Zb
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 587
+LIBRERIA HNS JIMENEZ
+@libriria
+· 56d
+48 followers
+📍 calpe
+View →
+
+🖲  the conversation is active again.   $KMNO   https://t.co/Ab8B79gBTW
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 4
+DeFiConnoisseur
+✓
+@DeFiConnoisseur
+· 56d
+947 followers
+View →
+
+@zeroxkyle Solid bag of $KMNO and $JTO could retire people
+
+💬 1
+🔄 0
+❤️ 1
+👁️ 272
+CoinMarketCal Bot
+@cmcal_bot
+· 56d
+34.1K followers
+View →
+
+New event added
+
+Binance Wallet Rewards
+
+Kamino · $KMNO
+03 Sep 2026 → 03 Oct 2026
+Impact 3.5/10
+
+https://t.co/9vPaY4erxq https://t.co/V0WEukAv7I
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 682
+DeFiConnoisseur
+✓
+@DeFiConnoisseur
+· 57d
+947 followers
+View →
+
+When Multicoin Capital Kamino ($KMNO) Asset Report?
+@tushar_jain
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 34
+CoinMarketCal Bot
+@cmcal_bot
+· 57d
+34.1K followers
+View →
+
+New event added
+
+hyUSD-USDC Incentives Doubled
+
+Kamino · $KMNO
+01 Sep 2026
+Impact 2.5/10
+
+https://t.co/9fK0dwAhwa https://t.co/A769QSL27U
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 779
+wanran
+@wanran_15
+· 57d
+49 followers
+View →
+
+🔨  fresh updates are being shared now.   $KMNO   https://t.co/J1LGRmw1yL
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 9
+alejandror
+@EkcSkay
+· 57d
+47 followers
+View →
+
+🍣  fresh updates are being shared now.   $KMNO   https://t.co/UAIhbboF19
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 7
+The Black Bull - $ANSEM 🀄️
+✓
+@TheBlackBull0x
+· 57d
+140.4K followers
+View →
+
+If $KMNO had a first impression, what would it be? https://t.co/fNXeUzkF81
+
+💬 9
+🔄 12
+❤️ 12
+👁️ 672
+alfredo prado
+@alfredo23316671
+· 57d
+44 followers
+View →
+
+🍒  fresh updates are being shared now.   $KMNO   https://t.co/NMRDfcNvO1
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 4
+Daniel Olmedo Guzman
+@olmedo_daniel
+· 57d
+54 followers
+View →
+
+👩‍🦯  fresh updates are being shared now.   $KMNO   https://t.co/3pNlCBKkT8
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 4
+Mario rojas
+@Mario4890
+· 57d
+45 followers
+View →
+
+🦤  fresh updates are being shared now.   $KMNO   https://t.co/XMoze8n8T8
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 3
+soufiane abdi
+@soufiantng
+· 57d
+48 followers
+View →
+
+📬 fresh updates are being shared now.   $KMNO   https://t.co/F8hYDITpcX
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 5
+flex
+@CanGavro
+· 58d
+82 followers
+📍 New York, USA
+View →
+
+What about think 
+
+$KMNO
+$avnt
+$era
+
+@aixbt_agent
+
+💬 1
+🔄 0
+❤️ 0
+👁️ 683
+Ruth Tijerina
+@RTijerina87142
+· 58d
+21 followers
+View →
+
+🔪  dev is talking about what happened.   $KMNO   https://t.co/vAzzbvn0yf
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 8
+CoinMarketCal Bot
+@cmcal_bot
+· 58d
+34.1K followers
+View →
+
+New event added
+
+Grok Earn Access
+
+Kamino · $KMNO
+31 Aug 2026
+Impact 4/10
+
+https://t.co/zbZw1arAsp https://t.co/yZkXYrO2Gy
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 811
+DeFiConnoisseur
+✓
+@DeFiConnoisseur
+· 60d
+947 followers
+View →
+
+@kaminointern @kamino Any $KMNO tokenomics updates incoming??
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 40
+CoinMarketCal Bot
+@cmcal_bot
+· 62d
+34.1K followers
+View →
+
+New event added
+
+USDe Rewards Increase
+
+Kamino · $KMNO
+28 Aug 2026
+Impact 3.5/10
+
+https://t.co/PYGLNxKa9S https://t.co/BEJcIXsu12
+
+💬 0
+🔄 0
+❤️ 0
+👁️ 798
+VikingLord.eth
+✓
+@Viking4Eth
+· 63d
+65.6K followers
+📍 London, England
+View →
+
+If $KMNO had a first impression, what would it be? https://t.co/SAaqmyrtbj
+
+💬 8
+🔄 9
+❤️ 9
+👁️ 351
+Nobody
+✓
+@FXNobody
+· 64d
+291 followers
+📍 Web 3
+View →
+
+I've been looking at $KMNO again and this is the kind of integration I think the market tends to underestimate
+
+Solana Mobile just put a USDC Earn button directly inside Seed Vault Wallet
+
+One tap → your USDC starts earning through Kamino
+
+No opening a DeFi app, no searching for a pool, no manually managing the position
+
+95% of deposits are routed into Kamino's lending market
+
+That's interesting because Kamino isn't only competing for crypto-native users anymore, it's becoming infrastructure that can sit invisibly behind consumer products
+
+Kamino already has $1.1B+ TVL and now Solana Mobile is literally putting its lending rails on the wallet home screen 👀
+
+For $KMNO, I'm watching distribution much more than price right now
+
+If DeFi eventually becomes invisible to the user, the protocols sitting underneath that UX could capture a lot more value than people expect
+
+💬 0
+🔄 0
+❤️ 4
+👁️ 130
+The Black Bull - $ANSEM 🀄️
+✓
+@TheBlackBull0x
+· 64d
+140.4K followers
+View →
+
+$KMNO skeptics, what would a fair version of the bullish thesis look like? https://t.co/wu6UHv41ov
+
+💬 9
+🔄 11
+❤️ 10
+👁️ 778
+Joshuwa Roomsburg
+✓
+@Joshuwa
+· 71d
+271.5K followers
+View →
+
+$KMNO opens a new RWA lane.
+
+USTB is now live on Kamino after Vault
+Street launched its first RWA market.
+
+The deployment also reaches Solana
+through a crosschain setup.
+
+The real test is whether users return
+after the launch moment fades away.
+
+💬 0
+🔄 1
+❤️ 5
+👁️ 1.1K
+Milk Road Crypto
+✓
+@milkroaddaily
+· 71d
+105.3K followers
+📍 See analyst trades for $1 →
+View →
+
+$KMNO Q2'26 REPORT HIGHLIGHTS
+
+🔷 Revenue $1.84M, -10.6% QoQ, third straight decline
+🔷 Deposits $2.29B, -21.1% ($569M net withdrawals)
+🔷 Value reaching KMNO holders: $0, no buyback ran
+
+The New Market:
+🔷 Ethena hit $528.6M deposits in 7 weeks, fastest ever
+🔷 Earned $74.5K NII, 4.7% of total, on 23% of deposits
+🔷 Season 4 paid 100M KMNO to stablecoin vault deposits
+
+NII Per $1,000 Deposited:
+🔷 Main Market $1.15 ($890K / $773M)
+🔷 Figure $1.02 ($326.5K / $318.4M)
+🔷 Ethena $0.14 ($74.5K / $528.6M)
+
+Users vs Protocol:
+🔷 $14.01M gross interest, 88.7% paid out to depositors
+🔷 Kamino kept $1.58M, zero bad debt in two stress events
+
+Source: @kamino Q2'26 Tokenholder Report, @Blockworks / @BlockworksAdv (funded by StroudGlobal)
+
+💬 0
+🔄 1
+❤️ 3
+👁️ 4.0K
+auf
+✓
+@aufsol
+· 72d
+3.2K followers
+View →
+
+@gumsays @solana Kamino has one of the best teams in crypto, absolute chads with INSANE amount of good products
+Only wish I could get any exposure/bet on their success - unfortunately $KMNO sucks
+
+💬 0
+🔄 0
+❤️ 2
+👁️ 139
+Proof of Voice (PoV)
+✓
+@Proof_Of_Voice
+· 82d
+8.9K followers
+📍 PoV CHAT 👉
+View →
+
+$KMNO @kamino is Solana’s lending leader, with zero bad debt and $66.9M in annualized fees.
+
+PoV by @MichaelSixgods: “Kamino is winning. The token isn’t.”
+
+✅ $1.82B TVL
+✅ Strong risk infrastructure
+🔍 No direct token revenue accrual
+🔍 Heavy unlock pressure
+
+💬 1
+🔄 1
+❤️ 2
+👁️ 74
+Proof of Voice (PoV)
+✓
+@Proof_Of_Voice
+· 82d
+8.9K followers
+📍 PoV CHAT 👉
+View →
+
+Kamino has no bad debt and $66.9M annualized fees, $KMNO is still down 91.5% from ATH
+
+$CAKE, $H, and $ZRO tell the same story from different angles: strong products can still carry token, adoption or governance risk
+
+Probability of Loss by @Core3io 
+PoV Digest 👇 https://t.co/jlmFPooDBF
+
+💬 1
+🔄 3
+❤️ 9
+👁️ 381
+Exolix
+@exolix_com
+· 86d
+27.8K followers
+View →
+
+$KMNO is now available on Exolix ⚡️
+
+Built on Solana, @kamino combines lending, borrowing, and automated yield strategies into a unified DeFi ecosystem. 
+
+It helps users manage capital more efficiently through a single protocol.
+
+Swap KMNO in minutes: https://t.co/VwygmyVZyJ https://t.co/UFEfFV1GEN
+
+💬 9
+🔄 3
+❤️ 174
+👁️ 1.8K
+BSCN
+@BSCNews
+· 105d
+1.4M followers
+📍 Global
+View →
+
+DeFi goes institutional and $AAVE, $MORPHO, $KMNO and $SPK are the biggest winners...
+
+@galaxyhq has just launched its Galaxy Onchain Financing Rate (GOFR), allowing institutions to access onchain credit through DeFi protocols.
+
+At the heart of the product, however, are...
+
+@aave
+@Morpho 
+@sparkfinance 
+@kamino 
+"and more"
+
+... all of which will now benefit from additional institutional capital directed their way.
+
+💬 7
+🔄 22
+❤️ 48
+👁️ 16.0K
+ヤンシ|cms close
+✓
+@cog_keel
+· 111d
+1.6K followers
+📍 🕳️
+View →
+
+$KMNO has me thinking about where DeFi is heading over the next few years.
+
+The biggest winners may not be the protocols with the flashiest marketing.
+
+They may be the ones that quietly become part of people's daily workflow.
+
+When users stop noticing the infrastructure because everything simply works, that's usually a sign of good product design.
+
+Kamino feels like it's building toward that direction.
+
+Am I seeing this the right way, or do you think the market is overlooking something?
+
+CA: KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS 
+
+https://t.co/GnhNTaXvRc
+
+💬 1
+🔄 1
+❤️ 8
+👁️ 80
+Coin-O-Metry
+🧮
+Orca
+KMNO/USDC
+View pair
+Solana
+3ndj…3CXK
+Order Flow (Buys vs Sells)
+Buy Ratio 5m
+40%
+Buy Ratio 1h
+52%
+Buy Ratio 6h
+51%
+Buy Ratio 24h
+51%
+Price Change
+Price Δ 5m (+0.02%)
+0%
+Price Δ 1h (+0.28%)
+0%
+Price Δ 6h (-0.19%)
+0%
+Price Δ 24h (+1.35%)
+1%
+Volume
+Volume 5m
+$1.54K
+Volume 1h
+$20.77K
+Volume 6h
+$288.65K
+Volume 24h
+$1.23M
+Market Stats
+Liquidity (USD)
+$1.45M
+FDV
+$244.91M
+Market Cap
+$131.25M
+Technical Analysis
+📈
+Price & Market Overview
+
+Kamino is currently trading at $0.02450 USD, representing a significant -90.11% decline from its all-time high of $0.247842, which was reached on December 15, 2024. The token has shown resilience from its all-time low of $0.013427, currently trading +82.48% above that level (ATL occurred in June 2026 per CoinGecko data).
+The market capitalization stands at approximately $133.5 million, placing Kamino at rank #223 on CoinGecko. The fully diluted valuation (FDV) is approximately $245 million, implying that roughly 54% of the total token supply is currently circulating. The protocol maintains an impressive TVL of $1.4 billion, which is more than 10x the current market cap — a mcap-to-TVL ratio of just 0.10, suggesting the token may be undervalued relative to the capital flowing through its protocol.
+Liquidity on the primary KMNO/USDC pair on Orca is $1,450,285 USD, which is relatively healthy for a token of this market cap. The pair was created on October 10, 2024.
+
+Trading Indicators
+
+Volume Analysis: The 24-hour trading volume on the tracked Orca pair is $1,234,848, while aggregate volume across all exchanges (including Binance, Bybit, OKX, Coinbase, and others) reaches approximately $5.09 million. This represents a reasonable volume-to-market-cap ratio of roughly 3.8%, indicating moderate trading activity.
+Buy/Sell Pressure: Over the past 24 hours, transaction data shows 9,190 buys versus 8,812 sells, reflecting a slight buy-side dominance. The 6-hour window shows a similar pattern with 2,159 buys versus 2,106 sells. This consistent, modest buy pressure supports the positive 24-hour price change of +1.35% on DexScreener.
+Trend Patterns: The token exhibits a mixed multi-timeframe picture:
+
+1-hour: +0.28% (mild positive momentum)
+6-hour: -0.19% (slight pullback)
+24-hour: +1.35% (positive daily performance)
+7-day: -9.82% (short-term correction)
+14-day: +10.39% (recovery trend)
+30-day: +32.88% (strong medium-term momentum)
+60-day: +28.18% (continued positive trend)
+200-day: -29.91% (long-term decline from ATH)
+1-year: -55.09% (significant yearly decline)
+The 30-day and 60-day positive momentum suggests the token is in a recovery phase, having established a meaningful uptrend over the past two months despite the longer-term drawdown from its December 2024 peak.
+On-chain Metrics
+
+Supply Distribution: The total supply is 9,999,957,002 KMNO against a max supply of 10 billion, with 5,449,315,400 tokens currently in circulation. The circulating-to-total supply ratio of approximately 54.5% suggests that vesting unlocks are still ongoing.
+Holder Behavior Patterns: Data not available for detailed holder analysis on Solana.
+Transaction Patterns: Recent activity shows consistent daily transaction volumes in the range of 18,000 transactions per 24 hours on the primary DEX pair, indicating active trading and healthy user engagement.
+
+Exchange Listings & Availability
+
+Kamino enjoys extensive exchange availability, being listed on numerous major centralized and decentralized platforms:
+Major Centralized Exchanges:
+
+Binance (KMNO/USDT and KMNO/USDC pairs)
+Coinbase Exchange (KMNO/USD)
+Kraken (KMNO/USD and KMNO/EUR)
+Bybit (KMNO/USDT)
+OKX (KMNO/USDT, KMNO/USDC, KMNO/USD, KMNO/EUR)
+KuCoin (KMNO/USDT)
+Gate.io (KMNO/USDT)
+Bitget (KMNO/USDT)
+MEXC (KMNO/USDT and KMNO/USDC)
+Upbit (KMNO/KRW)
+Bithumb (KMNO/KRW)
+WhiteBIT, Bitvavo, Gemini, Crypto.com, and many others
+Decentralized Exchanges:
+Orca (primary KMNO/USDC pair)
+Meteora (KMNO/SOL, KMNO/USDC, KMNO/JitoSOL, KMNO/JupSOL)
+Raydium (KMNO/SOL CLMM)
+The bid-ask spread on centralized exchanges is notably tight at approximately 0.04%, while DEX spreads are wider at 0.60-0.78%, which is typical for on-chain trading venues.
+Recent News & Updates
+
+Based on the most recent community chatter and event data (September 2026), several key developments are notable:
+
+Binance Wallet Integration (September 3, 2026): Kamino integrated with Binance Wallet infrastructure, rated at an impact level of 5.5/10 — the highest-rated recent event.
+Binance Wallet Rewards Program (September 3 - October 3, 2026): A month-long rewards campaign launched on Binance Wallet.
+xStocks Collateral on XPlace (September 3, 2026): Expansion of stock-backed collateral capabilities on the protocol's XPlace product.
+RWA Vault Integration (September 3, 2026): Further development of real-world asset vault products.
+hyUSD-USDC Incentives Doubled (September 1, 2026): Increased liquidity incentives for the hyUSD-USDC market.
+Grok Earn Access (August 31, 2026): Integration with Grok earn products.
+Stock Lending Leadership: Community reports indicate Kamino leads stock lending TVL among Solana venues, with isolated markets providing cleaner downside protection for lenders.
+These developments paint a picture of a protocol actively expanding its product suite across lending, liquidity, and leverage while pursuing integrations with major ecosystem players.
+Risk Assessment
+Volatility Analysis: Kamino exhibits typical cryptocurrency volatility characteristics. The token has experienced a -90% drawdown from its all-time high, which highlights the substantial downside risk inherent in the asset. However, the recent 30-day performance of +32.88% demonstrates that the token can also deliver significant upside moves.
+Concentration Risk: With a market cap of $133 million and FDV of $245 million, a substantial portion of tokens remain locked or unvested. Future unlocks could create selling pressure, though the protocol's strong TVL ($1.4 billion) and revenue generation may offset this.
+Protocol Risk: As a DeFi protocol handling lending, liquidity, and leverage, Kamino is exposed to smart contract risk, oracle failures, and potential liquidation cascades. The protocol's use of isolated markets for stock lending (as noted in community discussions) represents a thoughtful design choice to contain bad debt risk.
+Competition Risk: Kamino operates in the highly competitive Solana DeFi landscape, competing with other lending protocols and DEX aggregators. However, its unique position as the leading stock lending venue on Solana and its first-mover advantage in unified lending/liquidity/leverage products provide some competitive moat.
+Macro Risk: The token's -55% performance over the past year and -90% drawdown from ATH suggest sensitivity to broader crypto market conditions and the post-2024 bull market correction.
+Liquidity Risk: While the $1.45 million liquidity pool on Orca is adequate for current trading volumes, it may be insufficient for large institutional-sized trades without significant slippage. The extensive CEX listings partially mitigate this concern.
+Positive Factors: The mcap-to-TVL ratio of 0.10 is exceptionally low, suggesting the protocol generates substantial economic activity relative to its token valuation. The continued product innovation (stock lending, RWA vaults) and major exchange integrations (Binance Wallet) provide fundamental tailwinds that could support future price appreciation.
+
+Report compiled from DexScreener, CoinGecko, and Twitter/X data. All figures are as of the latest available data timestamps. This report is for informational purposes only and does not constitute financial advice.
+
+Internet Markets
+Connect wallet
+
+Exchange
+
+From
+
+SOL
+Solana
+
+To
+
+KMNO
+Solana
+
+Send
+
+$0.00
+
+Connect wallet
+Live
+$BTC:
+$79,858.00
+1.20%
+$ETH:
+$2,307.35
+1.96%
+$USDT:
+$1.00
+0.02%
+$BNB:
+$748.89
+0.64%
+$XRP:
+$1.29
+2.90%
+$USDC:
+$1.00
+0.01%
+$SOL:
+$99.79
+1.68%
+$TRX:
+$0.33
+0.12%
+$FIGR_HELOC:
+$1.03
+0.09%
+$ZEC:
+$1,238.86
+5.43%
+$HYPE:
+$78.39
+3.35%
+$DOGE:
+$0.08
+1.88%
+$XMR:
+$588.50
+1.95%
+$USDS:
+$1.00
+0.01%
+$WBT:
+$76.59
+1.41%
+$BTC:
+$79,858.00
+1.20%
+$ETH:
+$2,307.35
+1.96%
+$USDT:
+$1.00
+0.02%
+$BNB:
+$748.89
+0.64%
+$XRP:
+$1.29
+2.90%
+$USDC:
+$1.00
+0.01%
+$SOL:
+$99.79
+1.68%
+$TRX:
+$0.33
+0.12%
+$FIGR_HELOC:
+$1.03
+0.09%
+$ZEC:
+$1,238.86
+5.43%
+$HYPE:
+$78.39
+3.35%
+$DOGE:
+$0.08
+1.88%
+$XMR:
+$588.50
+1.95%
+$USDS:
+$1.00
+0.01%
+$WBT:
+$76.59
+1.41%
+Terms of Service
+© 2026 Raptorx. All Rights Reserved

@@ -12,7 +12,7 @@ Evidence package for the Superteam Earn bounty: **RaptorX Research Challenge —
 | `reports/` | Externally-verified report on Kamino/KMNO: 15 public sources, every figure with a URL + timestamp, machine-checked citations. |
 | `questions/` | The analytical question(s) for REX AI 5.0 — the judged deliverable. |
 | `evidence/` | Raw provider responses (CoinGecko, DeFiLlama, DEX Screener, Solscan, Birdeye, Kamino docs), citation ledger, and verification results. |
-| `screenshots/` | Token-page capture, plus the on-platform RaptorX AI report + REX AI 5.0 interaction (in capture). |
+| `screenshots/` | Token-page capture + the on-platform RaptorX AI (REX AI 5.0 / Claw) report on KMNO — legible, full-text capture. |
 
 ## The question to REX AI 5.0 (core of the submission)
 
@@ -30,7 +30,7 @@ Next reported unlock: 30-10-2026, ~229M KMNO (~3.9% of circulating); the effecti
 
 - **Verified externally** (15 sources, every figure with a URL): mint identity, documented utility, initial allocation, market reference, TVL, borrows, revenue and the queried pools.
 - **Provider-reported, with limits:** the unlock event and its calendar. The effectively-locked percentage: **not verified**.
-- **Pending (on-platform capture in RaptorX):** the AI report generated inside the platform + the REX AI 5.0 interaction (legible captures).
+- **Captured (on-platform, in RaptorX):** the AI report generated inside the platform (REX AI 5.0 / Claw) on KMNO is now in `screenshots/` (legible) with full text in `reports/KMNO-clawai-report-full.txt` and the capture note in `reports/KMNO-1-clawai.md`. Honest caveat: Claw's price figure ($0.0245) lags live CoinGecko ($0.0377, verified 29-10) by ~35% — documented, not papered over.
 
 This is not a buy or sell recommendation.
 
@@ -38,4 +38,4 @@ This is not a buy or sell recommendation.
 
 - Every number in `reports/KMNO-1.md` carries a source URL and timestamp; citations were machine-verified (`evidence/verification.json`: 0 marked unverified, 15 sources).
 - Raw provider responses are preserved in `evidence/` (CoinGecko, DeFiLlama, DEX Screener, Solscan, Birdeye, Kamino official docs).
-- The on-platform RaptorX AI report and the REX AI 5.0 interaction are being captured into `screenshots/` and will be added as soon as they land; the external report above stands independently.
+- The on-platform RaptorX AI report (REX AI 5.0 / Claw) is captured in `screenshots/` + `reports/KMNO-clawai-report-full.txt` (report_id `019f1a0b-c47e-7b06-8008-20594b283d82`, generated 29-10 00:11Z); the external report above stands independently.
