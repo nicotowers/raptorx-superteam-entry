@@ -175,7 +175,7 @@ No se promedian ambos precios: uno es la referencia agregada y otro corresponde 
 
 ## Presencia de KMNO en RaptorX
 
-**Estado: en captura. Listado operativo del mint de Kamino: no verificado. Reporte de IA e intercambio de preguntas dentro de RaptorX: no verificados en este paquete.**
+**Estado (actualizado 29-10-2026): el reporte de IA generado dentro de RaptorX (Claw AI 5.0) y la pregunta quedaron capturados; ver [`KMNO-1-clawai.md`](KMNO-1-clawai.md), que también documenta un desfase de ~35 % entre el precio de Claw AI y CoinGecko en vivo. Listado operativo del mint de Kamino: no verificado.**
 
 La evidencia local [`kmno_captura_1.json`](kmno_captura_1.json), fechada por su propio campo `ts_utc` el **28-10-2026 a las 17:53:47 UTC**, registra que `https://raptorx.trade/solana/KMNO` respondió con el mensaje de que no pudo cargar el token desde la URL.[7]
 KMNO tampoco figura entre las filas del screener incluidas en esa captura.[7]
@@ -183,7 +183,7 @@ KMNO tampoco figura entre las filas del screener incluidas en esa captura.[7]
 Una extracción pública posterior no permitió confirmar de forma consistente la página del mint correcto; el último intento guardado devolvió un error de extracción.[7]
 La búsqueda pública tampoco entregó una prueba suficiente de listado. **No encontrarlo en esa muestra no demuestra que RaptorX no lo soporte:** puede faltar otra ruta, una búsqueda por mint o la generación autenticada del reporte.[7]
 
-No atribuyas a RaptorX las cifras de CoinGecko, DeFiLlama o DEX Screener que aparecen arriba. Para cerrar este pendiente necesitas una captura legible de la página correcta, el reporte generado en RaptorX y la pregunta con su respuesta dentro de la plataforma.[17]
+No atribuyas a RaptorX las cifras de CoinGecko, DeFiLlama o DEX Screener que aparecen arriba. El pendiente de "captura legible de la página correcta, el reporte generado en RaptorX y la pregunta con su respuesta" **quedó cerrado el 29-10-2026** (reporte Claw AI 5.0 + pregunta + capturas en [`KMNO-1-clawai.md`](KMNO-1-clawai.md)); quedan pendientes el listing operativo del mint y la publicación final del submission.
 
 ## Riesgos principales
 
