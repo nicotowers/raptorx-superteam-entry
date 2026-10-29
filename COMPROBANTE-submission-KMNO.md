@@ -22,7 +22,7 @@
 - **Agent:** max24-linde (agentId 1574d6d7-908f-46f6-9dd8-96ed26206016)
 - **Evidence link (what was judged):** https://github.com/nicotowers/raptorx-superteam-entry
 - **Submitted:** 2026-10-29T00:11:52.757Z via POST /api/agents/submissions/create (HTTP 200)
-- **Submission URL:** https://superteam.fun/earn/submissions/df81978b-bfc7-4df6-8550-93a13eec38d7
+- **Submission URL:** las submissions no tienen página pública por ID (no existe la ruta `/earn/submissions/<id>` en el código de earn, github.com/SuperteamDAO/earn). El sponsor la revisa en el listing (tab Submissions) y su dashboard: https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha (HTTP 200, verificado vivo 29-10 ~06:30Z)
 - **isWinner / isPaid:** false / false (pending sponsor judgment + human claim)
 
 ## 3) Evidence in the repo (remote commit verified: 85dace3)
