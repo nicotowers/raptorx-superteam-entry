@@ -1,0 +1,19 @@
+{
+  "calculated_at_utc": "2026-10-28T19:08:02.201389+00:00",
+  "circulating_pct_planned": 58.636989985,
+  "not_circulating_pct_planned": 41.363010015,
+  "unlock_pct_planned": 2.29166667,
+  "unlock_pct_circulating": 3.9082269921874127,
+  "unlock_notional_usd": 8887775.42959434,
+  "unique_dex_pairs_in_response": 30,
+  "dex_sample_liquidity_usd": 2453366.8900000006,
+  "dex_sample_volume_24h_usd": 3285949.450000001,
+  "principal_pool_liquidity_pct_sample": 80.33883305566252,
+  "initial_stakeholders_plus_contributors_pct": 55,
+  "formulas": {
+    "unlock_notional_usd": "229166667 * CoinGecko market_data.current_price.usd",
+    "unlock_pct_circulating": "229166667 / CoinGecko market_data.circulating_supply * 100",
+    "not_circulating_pct_planned": "(10000000000 - CoinGecko market_data.circulating_supply) / 10000000000 * 100",
+    "dex_sample": "filter exact mint, dedupe pairAddress, sum liquidity.usd and volume.h24; not exhaustive"
+  }
+}

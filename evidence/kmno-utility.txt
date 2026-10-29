@@ -1,0 +1,54 @@
+> ## Documentation Index
+> Fetch the complete documentation index at: https://kamino.com/docs/llms.txt
+> Use this file to discover all available pages before exploring further.
+
+# Token Info
+
+> KMNO token distribution, allocation, and utility overview
+
+# Token Info
+
+## Planned Distribution Overview
+
+* **Ticker:** KMNO
+* **Total Supply:** 10,000,000,000
+* **Estimated Initial Circulating Supply:** 1,000,000,000
+* **Initial Community Distribution:** 750,000,000
+* **Token Generation Event (TGE):** April 30th, 2024
+
+## Distribution Breakdown
+
+![KMNO Token Distribution](https://mintcdn.com/kamino-3d73a151/iVKuzWgEeR0IuJ9z/images/kmno/distribution-chart.png?fit=max\&auto=format\&n=iVKuzWgEeR0IuJ9z\&q=85\&s=252c9b72dc6d6013f3d3eab405b6c126)
+
+### Community & Grants — 35%
+
+Kamino maintains a substantial developer and user community across Solana DeFi. This allocation supports foundational layer expansion through builder grants and community incentives managed by the Kamino treasury.
+
+### Genesis Allocation — 7.5%
+
+7.5% of KMNO will be distributed via the KMNO Genesis event on April 30th to reward existing platform participants, excluding Restricted Persons.
+
+### Liquidity & Treasury — 10%
+
+Reserved for growing KMNO liquidity across multiple platforms and managed through the Kamino treasury over the token's lifecycle.
+
+### Core Contributors — 20%
+
+Team members developing Kamino across product, engineering, risk, growth, and operations receive this allocation with specific vesting: locked up for 12 months, after which it will vest linearly over 24 months.
+
+### Key Stakeholders & Advisors — 35%
+
+35% of the KMNO supply is reserved for these key stakeholders and advisors, featuring investors and industry leaders. This allocation will be locked for 12 months, after which it will vest linearly over 24 months.
+
+## KMNO Utility
+
+### Staking
+
+KMNO holders can stake tokens natively on Kamino to earn staking boosts that enhance points earnings.
+
+### Governance
+
+Should protocol governance launch, KMNO becomes the primary governance token for decision-making on user rewards, grants, revenue allocation, and certain risk management aspects.
+
+
+This documentation is built and hosted on [Mintlify](https://mintlify.com), a developer documentation platform.

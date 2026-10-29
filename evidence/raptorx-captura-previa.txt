@@ -1,0 +1,425 @@
+2026-10-28T17:53:47Z
+https://raptorx.trade/solana/KMNO
+The Intelligent Terminal for Prediction Markets & Crypto.
+RexScreener
+Claw AI 5.0
+Rex Predictions
+Login
+Market Overview
+
+Real time insights powered by Claw AI 5.0.
+
+Base
+Robinhood
+Ethereum
+Solana
+BNB Chain
+Monad
+
+We couldn't load this token from the URL.
+
+Back to screener
+Token (Click coin for charting)
+AI Report
+Mcap
+24h %
+Vol
+Price
+Liquidity
+Age
+#1
+SOL/SOL
+SOL
+—
+-0X
+▼ 0.01%
+$2.47B
+-0.02X
+$101.71
+-0X
+$6.07B
+7y
+#2
+USDC/SOL
+USD Coin
++0X
+$71.02B
+0.00%
+$1.07B
+-0.2X
++0X
+$0.9994
+$1.05B
+6y
+#3
+USDT/SOL
+USDT
++0X
+$183.91B
+▲ 0.02%
++0.07X
+$155.10M
++0X
+$0.9986
+$146.74M
+6y
+#4
+USDG/SOL
+Global Dollar
++0X
+$10.73M
+▲ 0.04%
+$72.28M
+-0.28X
++0X
+$0.9979
+$33.20M
+2y
+#5
+cbBTC/SOL
+Coinbase Wrapped BTC
++0X
+$222.54M
+▲ 0.37%
+$60.85M
+-0.05X
++0X
+$80.62K
+$34.65M
+2y
+#6
+TTWO/SOL
+Take-Two Interactive Software - Backpack Securities
+$85
+-0.01X
+▼ 0.95%
++0.28X
+$52.62M
+$199.0071
+-0.01X
+$3.93M
+2mo
+#7
+ZEC/SOL
+Zcash
+$31.67K
+-0.01X
+▼ 0.76%
+$35.00M
+-0.06X
+$1.28K
+-0.01X
+$20.67M
+1y
+#8
+PUMP/SOL
+Pump
+$1.95B
+-0.01X
+▼ 1.19%
+$34.59M
+-0.76X
+$0.004232
+-0.01X
+$44.48M
+1y
+#9
+SPCX/SOL
+SpaceX - Backpack Securities
+$9.26M
+-0.04X
+▼ 3.71%
+$24.32M
+-0.35X
+$144.48
+-0.04X
+$9.35M
+5mo
+#10
+STONK/SOL
+STONK
++0.09X
+$149.94M
+▲ 9.42%
+$24.03M
+-0.26X
++0.09X
+$0.1499
+$11.91M
+3mo
+#11
+DJT/SOL
+Trump Media & Technology Group Corp. - Backpack Securities
+$113.59K
+-0.05X
+▼ 4.65%
++0.41X
+$21.84M
+$5.94
+-0.05X
+$1.30M
+1mo
+#12
+WETH/SOL
+Wrapped Ether (Wormhole)
+$203.69M
+-0X
+▼ 0.09%
+$20.30M
+-0.28X
+$2.34K
+-0X
+$17.32M
+5y
+#13
+NUVRA/SOL
+nuvrawork
++5.55X
+$9.39M
+▲ 555.48%
+$19.45M
++5.55X
+$0.009386
+$77.64K
+6h
+#14
+HYPE/SOL
+HYPE
++0.01X
+$88.46K
+▲ 0.91%
+$16.23M
+-0.41X
++0.01X
+$80.17
+$16.48M
+1y
+#15
+Frongus/SOL
+Frongus
++29.4X
+$110.74K
+▲ 2.94K%
+$14.97M
++29.4X
+$0.000115
+$64.96K
+23h
+#16
+PYUSD/SOL
+PayPal USD
++0X
+$3.03B
+▲ 0.03%
++0.23X
+$14.69M
++0X
+$0.9984
+$29.57M
+3y
+#17
+WBTC/SOL
+Wrapped BTC (Wormhole)
++0X
+$311.71M
+▲ 0.33%
+$11.74M
+-0.78X
++0X
+$80.77K
+$10.93M
+5y
+#18
+USD1/SOL
+World Liberty Financial USD
++0X
+$4.14B
+▲ 0.02%
+$11.70M
+-0.09X
++0X
+$0.9992
+$139.90M
+1y
+#19
+fwdSOL/SOL
+Forward Industries Staked SOL
+—
+-0X
+▼ 0.03%
++4689.7X
+$10.09M
+—
+-0X
+$290.96M
+11mo
+#20
+BNSOL/SOL
+Binance Staked SOL
+$1.10B
+-0X
+▼ 0.03%
+$9.67M
+-0.32X
+$115.69
+-0X
+$1.09B
+2y
+#21
+MPLX/SOL
+Metaplex
++0.57X
+$32.70M
+▲ 56.59%
++3.59X
+$8.35M
++0.57X
+$0.06976
+$3.90M
+5y
+#22
+CASH/SOL
+CASH
++0X
+$104.52K
+0.00%
++0.01X
+$7.95M
++0X
+$1.00016
+$7.38M
+1y
+#23
+LAUNCH/SOL
+Launch
+$108.45K
+-0.94X
+▼ 93.56%
++0.39X
+$7.55M
+$0.00011
+-0.94X
+$69.85K
+3d
+#24
+NEAR/SOL
+NEAR
++0X
+$5.92B
+▲ 0.09%
++0.09X
+$7.34M
++0X
+$4.61
+$9.58M
+2y
+#25
+Something/SOL
+Believe in Something
++2.28X
+$213.27K
+▲ 227.98%
+$6.38M
++2.28X
+$0.000214
+$108.02K
+20h
+Prev
+Page
+Next
+25
+Live
+$BTC:
+$80,749.00
+0.30%
+$ETH:
+$2,343.32
+0.08%
+$USDT:
+$1.00
+0.01%
+$BNB:
+$749.20
+0.03%
+$XRP:
+$1.32
+0.06%
+$USDC:
+$1.00
+0.00%
+$SOL:
+$101.62
+0.75%
+$TRX:
+$0.33
+0.52%
+$FIGR_HELOC:
+$1.03
+0.22%
+$ZEC:
+$1,284.06
+1.36%
+$HYPE:
+$80.38
+0.05%
+$DOGE:
+$0.08
+1.40%
+$XMR:
+$602.89
+0.58%
+$USDS:
+$1.00
+0.02%
+$WBT:
+$77.51
+0.11%
+$BTC:
+$80,749.00
+0.30%
+$ETH:
+$2,343.32
+0.08%
+$USDT:
+$1.00
+0.01%
+$BNB:
+$749.20
+0.03%
+$XRP:
+$1.32
+0.06%
+$USDC:
+$1.00
+0.00%
+$SOL:
+$101.62
+0.75%
+$TRX:
+$0.33
+0.52%
+$FIGR_HELOC:
+$1.03
+0.22%
+$ZEC:
+$1,284.06
+1.36%
+$HYPE:
+$80.38
+0.05%
+$DOGE:
+$0.08
+1.40%
+$XMR:
+$602.89
+0.58%
+$USDS:
+$1.00
+0.02%
+$WBT:
+$77.51
+0.11%
+Terms of Service
+© 2026 Raptorx. All Rights Reserved
+Rex Pilot. Your AI Pilot for everything crypto.
+Click Generate to generate Alpha reports for any coin on Solana, BNB & Base!

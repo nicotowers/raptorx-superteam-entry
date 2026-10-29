@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://kamino.com/docs/kmno",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "KMNO is the native token of Kamino Finance, with a total supply of 10,000,000,000.",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.coingecko.com/en/coins/kamino",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "KMNO’s next token unlock is scheduled for October 30 (1 days away), which will release 229.17M KMNO tokens ($8.89M), representing 2.3% of the total supply. This unlock releases 145.83M KMNO ($5.66M) for Key Stakeholders & Advisors and 83.33M KMNO ($3.23M) for Core Contributors.",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://defillama.com/protocol/kamino",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "Revenue 30d$623,535\nRevenue 30d by chain\nSolana$623,535\n\nRevenue 7d$134,579\nSolana$134,579\n\nRevenue 24h$19,138\nSolana$19,138\n\nCumulative Revenue$51.25m\nSolana$51.25m\n\nHolders Revenue 30d$0\nHolders Revenue 30d by chain\nSolana$0\n\nHolders Revenue 7d$0\nSolana$0\n\nHolders Revenue 24h$0\nSolana$0\n\nCumulative Holders Revenue$0\nSolana$0",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://defillama.com/protocol/kamino-lend",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "Revenue 30d$604,908\nRevenue 30d by chain\nSolana$604,908\n\nRevenue 7d$131,796\nSolana$131,796\n\nRevenue 24h$18,707\nSolana$18,707\n\nCumulative Revenue$44.49m\nSolana$44.49m\n\nHolders Revenue 30d$0\nHolders Revenue 30d by chain\nSolana$0\n\nHolders Revenue 7d$0\nSolana$0\n\nHolders Revenue 24h$0\nSolana$0\n\nCumulative Holders Revenue$0\nSolana$0",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://tokenomist.ai/kamino/unlock-events",
+      "title": "",
+      "accessed": "2026-10-28"
+    },
+    {
+      "id": 6,
+      "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha",
+      "title": "",
+      "accessed": "2026-10-28"
+    },
+    {
+      "id": 7,
+      "url": "https://raptorx.trade/solana/KMNO",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "We couldn't load this token from the URL.",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://kamino.finance",
+      "title": "",
+      "accessed": "2026-10-28"
+    },
+    {
+      "id": 9,
+      "url": "https://solscan.io/token/KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "Current Supply\n\n9,999,956,616.198987",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://app.tokenomics.com/tokenomics/kamino/unlocks",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "KMNO has a total supply of 10,000,000,000 tokens. As of October 2026, approximately 10% (1,000,000,000 tokens) are in circulation per market data, while 42.2% (4,224,999,998 tokens) remain locked per the vesting schedule.\n\n- Total supply: 10,000,000,000 KMNO\n- Circulating (market): 1,000,000,000 (10%)\n- Locked per schedule: 4,224,999,998 (42.2%)\n- Unlocked but not yet in market: 4,775,000,002 (47.8%)",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://kamino.com/docs/kmno/token-info",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "KMNO holders can stake tokens natively on Kamino to earn staking boosts that enhance points earnings.",
+          "added": "2026-10-28"
+        },
+        {
+          "text": "Should protocol governance launch, KMNO becomes the primary governance token for decision-making on user rewards, grants, revenue allocation, and certain risk management aspects.",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://defillama.com/protocol/kamino-liquidity",
+      "title": "",
+      "accessed": "2026-10-28"
+    },
+    {
+      "id": 13,
+      "url": "https://api.coingecko.com/api/v3/coins/kamino?localization=false&tickers=false&market_data=true&community_data=false&developer_data=false&sparkline=false",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "\"current_price\": {\n      \"vef\": 0.00388334,\n      \"btc\": 4.78861e-07,\n      \"bits\": 0.478861,\n      \"sats\": 47.89,\n      \"eth\": 1.649e-05,\n      \"ltc\": 0.00066398,\n      \"bch\": 0.00013666,\n      \"bnb\": 5.172e-05,\n      \"eos\": 0.42873332,\n      \"xrp\": 0.029253,\n      \"xlm\": 0.22649985,\n      \"link\": 0.00332539,\n      \"dot\": 0.03832349,\n      \"yfi\": 1.856e-05,\n      \"sol\": 0.00038023,\n      \"usd\": 0.03878302,\n      \"aed\": 0.14245,\n      \"ars\": 59.79,\n      \"aud\": 0.054965,\n      \"bdt\": 4.81,",
+          "added": "2026-10-28"
+        },
+        {
+          "text": "0038023,\n      \"usd\": 0.03878302,\n      \"aed\": 0.14245,\n      \"ars\": 59.79,\n      \"aud\": 0.054965,\n      \"bdt\": 4.81,\n      \"bhd\": 0.01463283,\n      \"bmd\": 0.03878302,\n      \"",
+          "added": "2026-10-28"
+        },
+        {
+          "text": "e\": false,\n    \"circulating_supply\": 5863698998.5,\n    \"outstanding_supply\": 9999956616.198988,\n    \"last_updated\": \"2026-10-28T18:58:49.000Z\"\n  },\n  \"last_updated\": \"2026-10-",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://api.dexscreener.com/token-pairs/v1/solana/KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "\"liquidity\": {\n      \"usd\": 1971006.33,\n      \"base\": 27138670,\n      \"quote\": 917569\n    },\n    \"fdv\": 388167517,\n    \"marketCap\": 227610061,\n    \"pairCreatedAt\": 1728555415000,\n    \"info\": {\n      \"imageUrl\": \"https://cdn.dexscreener.com/cms/images/b3b9a0026bec75db0e4ecb6e023901a812dad85d3ffa1d2ec8b3a53ca498da31?width=800&height=800&quality=95&format=auto\",\n      \"header\": \"https://cdn.dexscreener.com/cms/images/d2300fb2f8c6d9de3824445aeccc919a82de03a1f2f32ed87953093a920eed34?width=1500&height",
+          "added": "2026-10-28"
+        },
+        {
+          "text": "dity\": {\n      \"usd\": 1971006.33,\n      \"base\": 27138670,\n      \"quote\": 917569\n    },\n    \"fdv\": 388167517,\n    \"marketCap\": 227610061,\n    \"pairCreatedAt\": 1728555415000,",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://api.llama.fi/protocol/kamino",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "\"currentChainTvls\": {\n    \"Solana\": 1334322110,\n    \"Solana-borrowed\": 861676808,\n    \"borrowed\": 861676808\n  }\n}",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://api.llama.fi/protocol/kamino-lend",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "\"currentChainTvls\": {\n    \"Solana-borrowed\": 861676808.55988,\n    \"Solana\": 1262710903.98576,\n    \"borrowed\": 861676808.55988\n  }\n}",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://superteam.fun/api/listings/details/raptorx-research-challenge-ask-better-questions-find-better-alpha",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "\"rewardAmount\": 125,\n  \"rewards\": {\n    \"1\": 75,\n    \"2\": 50\n  },\n  \"maxBonusSpots\": 0,\n  \"sponsorId\": \"4c911f6c-51a2-4626-8906-9183716d5ae5\",\n  \"isPublished\": true,\n  \"skills\": [\n    {\n      \"skills\": \"Content\",\n      \"subskills\": [\n        \"Research\"\n      ]\n    },\n    {\n      \"skills\": \"Other\",\n      \"subskills\": [\n        \"Product Feedback\"\n      ]\n    }\n  ],\n  \"type\": \"bounty\",\n  \"requirements\": null,\n  \"isWinnersAnnounced\": false,\n  \"region\": \"Global\",\n  \"pocSocials\": \"https://t.me/huntonr",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://tokenomist.ai/kamino",
+      "title": "",
+      "accessed": "2026-10-28"
+    },
+    {
+      "id": 19,
+      "url": "https://kamino.com/docs/products/lending-vaults/risks.md",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "Lending protocols carry irreducible smart contract and market risk.",
+          "added": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://kamino.com/docs/products/multiply/risks.md",
+      "title": "",
+      "accessed": "2026-10-28",
+      "quotes": [
+        {
+          "text": "Multiply uses leverage. Leveraged positions amplify both gains and losses.",
+          "added": "2026-10-28"
+        }
+      ]
+    }
+  ]
+}

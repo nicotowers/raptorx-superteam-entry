@@ -1,0 +1,44 @@
+{
+  "https://www.coingecko.com/en/coins/kamino": {
+    "url": "https://www.coingecko.com/en/coins/kamino",
+    "title": "Kamino Price: KMNO/USD Live Price Chart, Market Cap & News Today | CoinGecko",
+    "error": null,
+    "text_path": "/Users/nicolasignaciotorresbravo/NICO-OS/2-Herramientas/Hermes/operaciones/autonomia-20261026/ciclos/2026-10-28/raptorx/reports/evidencia-KMNO-1/page-1.md"
+  },
+  "https://defillama.com/protocol/kamino": {
+    "url": "https://defillama.com/protocol/kamino",
+    "title": "Kamino Protocol TVL, Revenue, & Fees - DefiLlama",
+    "error": null,
+    "text_path": "/Users/nicolasignaciotorresbravo/NICO-OS/2-Herramientas/Hermes/operaciones/autonomia-20261026/ciclos/2026-10-28/raptorx/reports/evidencia-KMNO-1/page-2.md"
+  },
+  "https://defillama.com/protocol/kamino-lend": {
+    "url": "https://defillama.com/protocol/kamino-lend",
+    "title": "Kamino Lend Protocol TVL, Revenue, & Fees - DefiLlama",
+    "error": null,
+    "text_path": "/Users/nicolasignaciotorresbravo/NICO-OS/2-Herramientas/Hermes/operaciones/autonomia-20261026/ciclos/2026-10-28/raptorx/reports/evidencia-KMNO-1/page-3.md"
+  },
+  "https://tokenomist.ai/kamino": {
+    "url": "https://tokenomist.ai/kamino",
+    "title": "Kamino (KMNO) | Tokenomics, Supply & Release Schedule",
+    "error": null,
+    "text_path": "/Users/nicolasignaciotorresbravo/NICO-OS/2-Herramientas/Hermes/operaciones/autonomia-20261026/ciclos/2026-10-28/raptorx/reports/evidencia-KMNO-1/page-4.md"
+  },
+  "https://app.tokenomics.com/tokenomics/kamino/unlocks": {
+    "url": "https://app.tokenomics.com/tokenomics/kamino/unlocks",
+    "title": "Kamino",
+    "error": null,
+    "text_path": "/Users/nicolasignaciotorresbravo/NICO-OS/2-Herramientas/Hermes/operaciones/autonomia-20261026/ciclos/2026-10-28/raptorx/reports/evidencia-KMNO-1/page-5.md"
+  },
+  "https://solscan.io/token/KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS": {
+    "url": "https://solscan.io/token/KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+    "title": "Kamino (KMNO) Token Tracker | Address: KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS | Solscan",
+    "error": null,
+    "text_path": "/Users/nicolasignaciotorresbravo/NICO-OS/2-Herramientas/Hermes/operaciones/autonomia-20261026/ciclos/2026-10-28/raptorx/reports/evidencia-KMNO-1/page-6.md"
+  },
+  "https://defillama.com/protocol/kamino-liquidity": {
+    "url": "https://defillama.com/protocol/kamino-liquidity",
+    "title": "Kamino Liquidity Protocol TVL, Revenue, & Fees - DefiLlama",
+    "error": null,
+    "text_path": "/Users/nicolasignaciotorresbravo/NICO-OS/2-Herramientas/Hermes/operaciones/autonomia-20261026/ciclos/2026-10-28/raptorx/reports/evidencia-KMNO-1/page-7.md"
+  }
+}
